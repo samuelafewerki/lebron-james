@@ -1,0 +1,13 @@
+
+
+#img-caption 
+{
+  width: 450px;
+}
+
+#image
+{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
